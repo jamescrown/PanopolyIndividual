@@ -1,0 +1,5 @@
+05/02/2018
+    Interface first Design Structure completed
+    Few problems such as where does getRent() go or doeos a utility fall under buildable if you cant build a house on it
+    Implement the interfaces with an abstract class instead and add small functions to accommodate for these which are
+    alterable in smaller classes

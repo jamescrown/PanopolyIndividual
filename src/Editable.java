@@ -1,2 +1,3 @@
-public interface Editable {
+public interface Editable extends Identifiable{
+    public boolean checkEditable();
 }
