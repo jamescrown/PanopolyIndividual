@@ -15,8 +15,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="56" lean-forward="false" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+            <state relative-caret-position="84">
+              <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -45,7 +45,7 @@
       <file leaf-file-name="EquallyLikelyDice.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EquallyLikelyDice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="105">
               <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
               <folding>
                 <element signature="e#187#188#0" expanded="true" />
@@ -55,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DiceTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DiceTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-689">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="819">
+              <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,23 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EquallyLikelyDiceTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EquallyLikelyDiceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-500">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestRunner.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TestRunner.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TestRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="105">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,7 +83,7 @@
         <entry file="file://$PROJECT_DIR$/src/Dice.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
-              <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+              <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -159,13 +147,13 @@
         <option value="$PROJECT_DIR$/src/TestSuite.java" />
         <option value="$PROJECT_DIR$/src/TestAll.java" />
         <option value="$PROJECT_DIR$/src/ParameterizedDiceTest.java" />
-        <option value="$PROJECT_DIR$/src/DiceTest.java" />
         <option value="$PROJECT_DIR$/src/EquallyLikelyDiceTest.java" />
         <option value="$PROJECT_DIR$/src/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/DiceTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
@@ -187,8 +175,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,6 +192,8 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -227,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Android JUnit.TestRunner.main">
+  <component name="RunManager" selected="Android JUnit.TestRunner">
     <configuration name="EquallyLikelyDiceTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="PanopolyIndividual" />
@@ -418,11 +406,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Android JUnit.TestRunner.main" />
-        <item index="1" class="java.lang.String" itemvalue="Android JUnit.EquallyLikelyDiceTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.DiceTest" />
-        <item index="3" class="java.lang.String" itemvalue="Android JUnit.ParameterizedDiceTest" />
-        <item index="4" class="java.lang.String" itemvalue="Android JUnit.TestRunner" />
+        <item index="0" class="java.lang.String" itemvalue="Android JUnit.TestRunner" />
+        <item index="1" class="java.lang.String" itemvalue="Android JUnit.TestRunner.main" />
+        <item index="2" class="java.lang.String" itemvalue="Android JUnit.EquallyLikelyDiceTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.DiceTest" />
+        <item index="4" class="java.lang.String" itemvalue="Android JUnit.ParameterizedDiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -443,39 +431,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EquallyLikelyDiceTest - 2018.02.12 at 17h 38m 59s.xml">
-      <configuration name="EquallyLikelyDiceTest" configurationId="AndroidJUnit" />
+    <history-entry file="TestRunner - 2018.02.14 at 14h 17m 06s.xml">
+      <configuration name="TestRunner" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="TestRunner_main - 2018.02.12 at 17h 39m 06s.xml">
-      <configuration name="TestRunner.main" configurationId="AndroidJUnit" />
+    <history-entry file="TestRunner - 2018.02.14 at 14h 17m 15s.xml">
+      <configuration name="TestRunner" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="TestRunner_main - 2018.02.12 at 17h 42m 55s.xml">
-      <configuration name="TestRunner.main" configurationId="AndroidJUnit" />
+    <history-entry file="TestRunner - 2018.02.14 at 14h 18m 42s.xml">
+      <configuration name="TestRunner" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="TestRunner_main - 2018.02.12 at 17h 43m 10s.xml">
-      <configuration name="TestRunner.main" configurationId="AndroidJUnit" />
+    <history-entry file="TestRunner - 2018.02.14 at 14h 18m 54s.xml">
+      <configuration name="TestRunner" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="TestRunner_main - 2018.02.12 at 17h 43m 51s.xml">
-      <configuration name="TestRunner.main" configurationId="AndroidJUnit" />
+    <history-entry file="TestRunner - 2018.02.14 at 14h 19m 18s.xml">
+      <configuration name="TestRunner" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="TestRunner_main - 2018.02.12 at 17h 45m 57s.xml">
-      <configuration name="TestRunner.main" configurationId="AndroidJUnit" />
+    <history-entry file="TestRunner - 2018.02.14 at 14h 22m 09s.xml">
+      <configuration name="TestRunner" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="TestRunner_main - 2018.02.12 at 17h 46m 17s.xml">
-      <configuration name="TestRunner.main" configurationId="AndroidJUnit" />
+    <history-entry file="TestRunner - 2018.02.14 at 14h 22m 13s.xml">
+      <configuration name="TestRunner" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="TestRunner_main - 2018.02.12 at 17h 47m 16s.xml">
-      <configuration name="TestRunner.main" configurationId="AndroidJUnit" />
+    <history-entry file="TestRunner - 2018.02.14 at 14h 24m 32s.xml">
+      <configuration name="TestRunner" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="TestRunner_main - 2018.02.12 at 17h 48m 15s.xml">
-      <configuration name="TestRunner.main" configurationId="AndroidJUnit" />
+    <history-entry file="TestRunner - 2018.02.14 at 14h 24m 49s.xml">
+      <configuration name="TestRunner" configurationId="AndroidJUnit" />
     </history-entry>
-    <history-entry file="TestRunner_main - 2018.02.12 at 17h 49m 18s.xml">
-      <configuration name="TestRunner.main" configurationId="AndroidJUnit" />
+    <history-entry file="TestRunner - 2018.02.14 at 14h 25m 08s.xml">
+      <configuration name="TestRunner" configurationId="AndroidJUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -486,12 +474,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32849163" sideWeight="0.50835073" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3281768" sideWeight="0.49164927" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3281768" sideWeight="0.49164927" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15208334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -576,7 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="118" lean-forward="false" selection-start-line="3" selection-start-column="118" selection-end-line="3" selection-end-column="118" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -738,7 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="118" lean-forward="false" selection-start-line="3" selection-start-column="118" selection-end-line="3" selection-end-column="118" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,26 +752,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestSuite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestSuite.java" />
+    <entry file="file://$PROJECT_DIR$/src/TestAll.java" />
     <entry file="file://$PROJECT_DIR$/src/Dice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
-          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+          <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -806,17 +778,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ParameterizedDiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParameterizedDiceTest.java" />
     <entry file="file://$PROJECT_DIR$/src/EquallyLikelyDice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
+        <state relative-caret-position="105">
           <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
           <folding>
             <element signature="e#187#188#0" expanded="true" />
@@ -825,38 +790,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/EquallyLikelyDiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="56" lean-forward="false" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="54" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestRunner.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/EquallyLikelyDiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-500">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="4" column="49" lean-forward="true" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-689">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="819">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
