@@ -1,4 +1,4 @@
-public interface Playable extends Editable {
+public interface Playable extends Identifiable{
     public int getNetWorth();
     public String[] getAssets();
     public int getKnockoutAmount();
