@@ -1,4 +1,4 @@
 public interface Taxable {
-    public double getIncomePercentage();
-    public double getFlatAmount();
+     double getTax();
+     String getTaxType();
 }

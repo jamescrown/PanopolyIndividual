@@ -1,8 +1,12 @@
 public interface Playable extends Identifiable{
-    public int getNetWorth();
-    public String[] getAssets();
-    public int getKnockoutAmount();
-    public String[] getRetainableCards();
-    public int getPosition();
-    public String getName();
+    double getNetWorth();
+    Site[] getAssets();
+    int getKnockoutAmount();
+    String[] getRetainableCards();
+    int getPosition();
+    int getNumberOfStations();
+    double getCash();
+    int getNumberOfUtilities();
+    int getNumberOfProperties();
+    void buyProperty(Site boughtSite);
 }

@@ -1,3 +1,3 @@
 public interface Cardable {
-    public int getCardAction();
+    int getCardAction();
 }

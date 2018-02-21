@@ -1,3 +1,6 @@
 public interface Ownable {
-    public Playable getOwner();
+    Playable getOwner();
+    double getPrice();
+    double getMortgageAmount();
+    void addOwner(Player player);
 }

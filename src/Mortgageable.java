@@ -1,3 +1,3 @@
 public interface Mortgageable extends Ownable {
-    public double getMortgageAmount();
+    double getMortgageAmount();
 }

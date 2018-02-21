@@ -4,8 +4,10 @@ import org.junit.Test;
 
 public class DiceTest {
     private int[] numberFromDice = new int[11];
-    private int[] lowerDiceRange = {2,5,7,10,13,16,13,10,7,5,2};
-    private int[] upperDiceRange = {4,6,9,12,15,17,15,12,9,6,4};
+//    private int[] lowerDiceRange = {2,5,7,10,13,16,13,10,7,5,2};
+//    private int[] upperDiceRange = {4,6,9,12,15,17,15,12,9,6,4};
+    private int[] lowerDiceRange = {1,4,6,9,12,15,12,9,6,4,1};
+    private int[] upperDiceRange = {5,7,10,13,16,18,16,13,10,7,5};
     private int[] possibleRolls = {2,3,4,5,6,7,8,9,10,11,12};
     @After
     public void setUp() {
@@ -22,11 +24,13 @@ public class DiceTest {
                 if(answer==possibleRolls[y]){
                     numberFromDice[y]++;
                 }
+
             }
         }
         for(int x=0;x<11;x++){
             Assert.assertTrue(lowerDiceRange[x] <= numberFromDice[x]/1000 && numberFromDice[x]/1000 <= upperDiceRange[x]);
         }
+
     }
     @Test
     public void ProbabilityDistributionEqualDice() {
