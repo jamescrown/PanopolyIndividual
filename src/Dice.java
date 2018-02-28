@@ -10,6 +10,17 @@ public class Dice implements Rollable {
         }
         return sum;
     }
+    //test methods
+    public int reflectionMethod(int randomInteger){
+        return randomInteger;
+    }
+    public double reflectionMethod1(double randomInteger1){
+        return randomInteger1;
+    }
+    public float reflectionMethod2(int randomInteger2){
+        float myFloat = 2.1f;
+        return myFloat;
+    }
     public static int getCurrentRoll(){
         return sum;
     }

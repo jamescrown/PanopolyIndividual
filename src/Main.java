@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args){
+       // Class myObjectClass = myObject.class;
+
         Dice myDice = new Dice();
         myDice.rollDice(2,6);
 
